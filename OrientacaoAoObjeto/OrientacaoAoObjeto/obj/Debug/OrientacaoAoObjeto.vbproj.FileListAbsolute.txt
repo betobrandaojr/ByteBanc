@@ -1,0 +1,12 @@
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\bin\Debug\OrientacaoAoObjeto.exe.config
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\bin\Debug\OrientacaoAoObjeto.exe
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\bin\Debug\OrientacaoAoObjeto.pdb
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\bin\Debug\OrientacaoAoObjeto.xml
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.vbprojAssemblyReference.cache
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.Form1.resources
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.Resources.resources
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.vbproj.GenerateResource.cache
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.vbproj.CoreCompileInputs.cache
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.exe
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.xml
+C:\Developer\Projects\VB\Curso\OrientacaoAoObjeto\OrientacaoAoObjeto\OrientacaoAoObjeto\obj\Debug\OrientacaoAoObjeto.pdb
